@@ -43,18 +43,20 @@ main {
     align-items: center;
     flex-wrap: nowrap;
     flex-wrap: nowrap;
-    margin-right: 10%;
 }
 
 .sidebar-header button {
     border: none;
     background-color: transparent;
     cursor: pointer;
-    margin-right: 10px;
 }
 
 .nav-header__search {
     margin-right: 5%;
+}
+
+.nav-header__burger {
+    margin-left: 5%;
 }
 
 .nav-header__burger:hover {
