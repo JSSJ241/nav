@@ -54,12 +54,12 @@ main {
 }
 
 .nav-header__burger {
-    margin-left: 2%;
+    margin-left: 10px;
     margin-right: 3%;
 }
 
 .nav-header__burger:hover {
-    transform: scale(1.1) rotate(45deg);
+    transform: scale(1.1) rotate(90deg);
     transition: 1s both; 
 }
 
