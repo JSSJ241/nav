@@ -19,6 +19,7 @@ main {
     box-shadow: 5px 0 10px 0 gray;
     margin: 0;
     padding: 0;
+    padding-right: 5px;
     z-index: 10;
 }
 
