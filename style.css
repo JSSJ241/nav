@@ -43,6 +43,7 @@ main {
     align-items: center;
     flex-wrap: nowrap;
     flex-wrap: nowrap;
+    margin-right: 10%;
 }
 
 .sidebar-header button {
@@ -53,7 +54,7 @@ main {
 }
 
 .nav-header__search {
-    margin-right: 10%;
+    margin-right: 5%;
 }
 
 .nav-header__burger:hover {
