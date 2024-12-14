@@ -55,6 +55,11 @@ main {
     margin-right: 5%;
 }
 
+.nav-header__burger {
+    margin-left: auto;
+    margin-right: 3%;
+}
+
 .nav-header__burger:hover {
     transform: scale(1.1) rotate(45deg);
     transition: 1s both; 
