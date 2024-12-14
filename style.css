@@ -179,7 +179,7 @@ main {
  @media (min-width: 320px) and (max-width: 768px) {
 .sidebar {
     width: 320px;
-    height: 100%;
+    height: auto;
 }
 .main-menu li {
     font-size: 14px;
