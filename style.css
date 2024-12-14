@@ -176,6 +176,11 @@ main {
     color: #7E7E82;
 }
 
-.footer_lang a:hover {
-    color: gray;
+ @media (min-width: 320px) and (max-width: 768px) {
+.sidebar {
+    width: 320px;
+}
+.main-menu li {
+    font-size: 14px;
+}
 }
