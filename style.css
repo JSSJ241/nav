@@ -175,12 +175,6 @@ main {
 .footer_lang .active {
     color: #7E7E82;
 }
-
- @media (min-width: 320px) and (max-width: 768px) {
-.sidebar {
-    width: 320px;
-    height: auto;
-}
 .main-menu li {
     font-size: 14px;
 }
