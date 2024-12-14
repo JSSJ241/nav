@@ -15,6 +15,7 @@ main {
     top: 0;
     left: 0;
     width: 320px;
+    height: 100vh;
     box-shadow: 5px 0 10px 0 gray;
     margin: 0;
     padding: 0;
