@@ -173,7 +173,7 @@ main {
 .footer_lang .active {
     color: #7E7E82;
 }
-.main-menu li {
-    font-size: 14px;
-}
+
+.footer_lang a:hover {
+    color: gray;
 }
