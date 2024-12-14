@@ -59,7 +59,7 @@ main {
 }
 
 .nav-header__burger:hover {
-    transform: scale(1.1) rotate(90deg);
+    transform: scale(1.1) rotate(360deg);
     transition: 1s both; 
 }
 
