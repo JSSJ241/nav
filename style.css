@@ -52,6 +52,10 @@ main {
     margin-right: 10px;
 }
 
+.nav-header__search {
+    margin-right: 10%;
+}
+
 .nav-header__burger:hover {
     transform: scale(1.1) rotate(45deg);
     transition: 1s both; 
